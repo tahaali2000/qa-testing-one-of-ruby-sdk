@@ -10,16 +10,16 @@ API specification with a long data type field
 Install the gem from the command line:
 
 ```bash
-gem install qa-testing-one-of-sdk -v 1.1.2
+gem install qa-testing-one-of-sdk -v 1.2.1
 ```
 
 Or add the gem to your Gemfile and run `bundle`:
 
 ```ruby
-gem 'qa-testing-one-of-sdk', '1.1.2'
+gem 'qa-testing-one-of-sdk', '1.2.1'
 ```
 
-For additional gem details, see the [RubyGems page for the qa-testing-one-of-sdk gem](https://rubygems.org/gems/qa-testing-one-of-sdk/versions/1.1.2).
+For additional gem details, see the [RubyGems page for the qa-testing-one-of-sdk gem](https://rubygems.org/gems/qa-testing-one-of-sdk/versions/1.2.1).
 
 ## Test the SDK
 
@@ -31,7 +31,7 @@ rake
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.1.2/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.2.1/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -55,17 +55,17 @@ client = SampleApi::Client.new
 
 ## List of APIs
 
-* [API](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.1.2/doc/controllers/api.md)
+* [API](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.2.1/doc/controllers/api.md)
 
 ## SDK Infrastructure
 
 ### HTTP
 
-* [HttpResponse](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.1.2/doc/http-response.md)
-* [HttpRequest](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.1.2/doc/http-request.md)
+* [HttpResponse](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.2.1/doc/http-response.md)
+* [HttpRequest](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.2.1/doc/http-request.md)
 
 ### Utilities
 
-* [ApiHelper](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.1.2/doc/api-helper.md)
-* [DateTimeHelper](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.1.2/doc/date-time-helper.md)
+* [ApiHelper](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.2.1/doc/api-helper.md)
+* [DateTimeHelper](https://www.github.com/tahaali2000/qa-testing-one-of-ruby-sdk/tree/1.2.1/doc/date-time-helper.md)
 
